@@ -1,0 +1,30 @@
+{
+  "name": "akt-rabot-js",
+  "version": "1.0.0",
+  "description": "Generate a Russian \"Акт выполненных работ\" (work-completion act, HTML) from a JSON file. Zero dependencies, runs via npx straight from GitHub.",
+  "bin": {
+    "akt-rabot": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT",
+  "author": "kleogeos",
+  "keywords": [
+    "freelance",
+    "akt",
+    "russia",
+    "cli",
+    "zero-dependencies",
+    "npx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kleogeos/akt-rabot-js"
+  },
+  "homepage": "https://kleogeos.github.io/freelancer-tools/"
+}
