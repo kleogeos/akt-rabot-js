@@ -69,7 +69,7 @@ Same document, same fields, as the Python original
 [akt-rabot-cli](https://github.com/kleogeos/akt-rabot-cli) and the
 [web generator](https://kleogeos.github.io/freelancer-tools/akt-vypolnennykh-rabot.html?src=cli-akt-js)
 (runs entirely in-browser) — this port is for anyone whose toolchain is
-Node.js rather than Python.
+Node.js rather than Python. More free tools: [Freelancer Toolbox](https://kleogeos.github.io/freelancer-tools/donate.html?src=cli-akt-js).
 
 Part of a growing set of npx ports of the Freelancer Toolbox CLIs:
 [freelance-rate-js](https://github.com/kleogeos/freelance-rate-js),
